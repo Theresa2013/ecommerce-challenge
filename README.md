@@ -40,11 +40,13 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
+```md
 mysql -u root -p
 Enter Password when prompted
 source db/schema.sql
 npm run seed
 npm start
+```
 
 ## Usage
 
